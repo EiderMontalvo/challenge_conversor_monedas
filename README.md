@@ -1,4 +1,4 @@
-# Conversor de Monedas - Java Console App
+# Conversor de Monedas
 
 Este proyecto es una aplicación de consola desarrollada en **Java** que permite convertir valores entre distintas monedas en tiempo real, utilizando la API pública de [ExchangeRate API](https://www.exchangerate-api.com/).
 
