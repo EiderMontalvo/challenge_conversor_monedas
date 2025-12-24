@@ -12,7 +12,7 @@ Conversión actualizada entre:
 - Dólar ↔ Sol peruano
 - etc
 
- Integración con una API real de tasas de cambio  
+ Integración con una API real libre de tasas de cambio  
  Manejo de errores en conexión y formato JSON  
  Interfaz sencilla por consola
 
